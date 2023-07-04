@@ -142,7 +142,12 @@ header ul li a
 .sci li
 {
     list-style: none;
+    
 }
+/* .sci li:hover
+{
+    transform: translateX(-12px);
+} */
 .sci li a
 {
     display: inline-block;
